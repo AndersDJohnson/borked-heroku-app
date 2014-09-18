@@ -2,6 +2,9 @@
   "name": "borked-heroku-app",
   "version": "1.0.0",
   "description": "A broken Heroku app.  Can you fix it?",
+  "engines": {
+    "node": "0.10.x"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/TargetRAD/borked-heroku-app.git"
