@@ -1,0 +1,15 @@
+{
+  "name": "borked-heroku-app",
+  "version": "1.0.0",
+  "description": "A broken Heroku app.  Can you fix it?",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TargetRAD/borked-heroku-app.git"
+  },
+  "main": "app.js",
+  "author": "twistedstream",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.9.0"
+  }
+}
