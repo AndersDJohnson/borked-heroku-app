@@ -10,6 +10,9 @@
     "url": "git://github.com/TargetRAD/borked-heroku-app.git"
   },
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "author": "twistedstream",
   "license": "MIT",
   "dependencies": {
