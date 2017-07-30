@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A broken Heroku app.  Can you fix it?",
   "engines": {
-    "node": "0.10.x"
+    "node": ">=4.8.4"
   },
   "repository": {
     "type": "git",
